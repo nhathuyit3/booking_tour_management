@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Github\\booking_tour_management\\BookingTourManagement\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2ACC267B-E48A-4161-AE08-4AE5A7FD00CF}|BookingTourManagement\\BookingTourManagement.vbproj|d:\\github\\booking_tour_management\\bookingtourmanagement\\bookingtourmanagement\\views\\home\\about.vbhtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2ACC267B-E48A-4161-AE08-4AE5A7FD00CF}|BookingTourManagement\\BookingTourManagement.vbproj|solutionrelative:bookingtourmanagement\\views\\home\\about.vbhtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 552,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "About.vbhtml",
+              "DocumentMoniker": "D:\\Github\\booking_tour_management\\BookingTourManagement\\BookingTourManagement\\Views\\Home\\About.vbhtml",
+              "RelativeDocumentMoniker": "BookingTourManagement\\Views\\Home\\About.vbhtml",
+              "ToolTip": "D:\\Github\\booking_tour_management\\BookingTourManagement\\BookingTourManagement\\Views\\Home\\About.vbhtml",
+              "RelativeToolTip": "BookingTourManagement\\Views\\Home\\About.vbhtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003381|",
+              "WhenOpened": "2024-07-30T16:20:44.785Z",
+              "EditorCaption": ""
             }
           ]
         },
